@@ -12,4 +12,4 @@ My personal collection of material themes.
 Follow the tutorial at their [Github page](https://github.com/Mayccoll/Gogh).
 
 ## Slack
-Copy and paste these values to your Slack settings.
+Copy and paste the values to your Slack settings.
