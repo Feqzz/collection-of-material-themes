@@ -5,6 +5,7 @@ My personal collection of material themes.
 * Gogh
 * Slack
 * Sublime
+* Vim
 
 ## Qt Creator
 `cp Material.xml ~/.config/QtProject/qtcreator/styles/`
@@ -33,4 +34,7 @@ Search for: `Material Theme`
 Open command palette agaian.
 
 Enter: `Material Theme: Activate Theme`.
+
+## Vim
+Follow the guide over at this [repository](https://github.com/kaicataldo/material.vim).
 
